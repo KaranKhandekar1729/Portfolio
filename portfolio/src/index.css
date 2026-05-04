@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter+Tight:ital,wght@0,100..900;1,100..900&display=swap');
+@import 'tailwindcss';
+
+@layer utilities {
+  .font-inter {
+    font-family: system-ui, -apple-system;
+  }
+  
+  .font-tiempos-text {
+    font-family: 'Tiempos Text';
+  }
+
+  .font-ms {
+    font-family: 'MS Sans Serif';
+  }
+}
+
+@font-face {
+  font-family: 'Tiempos Text';
+  src: url(./assets/fonts/TestTiemposText-RegularItalic-BF66457a50421c2.otf);
+}
+
+@font-face {
+  font-family: 'MS Sans Serif';
+  src: url(./assets/fonts/ms-sans-serif-1.otf);
+}
+
+*, *::before, *::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+* {
+  image-rendering: pixelated;
+}
+
+body {
+  background: black;
+  color: white;
+}
+
+a {
+  font-family: 'Tiempos Text';
+  font-style: italic;
+  text-decoration: underline;
+  text-decoration-thickness: .05em;
+  text-decoration-color: brown;
+}
+
+a:hover {
+  color: brown;
+}

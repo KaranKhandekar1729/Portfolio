@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="890"
+   height="890"
+   viewBox="0 0 890 890"
+   version="1.1"
+   xml:space="preserve"
+   id="SVGRoot"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   sodipodi:docname="ai-plans-logo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+   id="defs48"><inkscape:path-effect
+     effect="mirror_symmetry"
+     start_point="0,0"
+     end_point="1999.9999,2000"
+     center_point="999.99995,1000"
+     id="path-effect20"
+     is_visible="true"
+     lpeversion="1.2"
+     lpesatellites="#path20"
+     mode="free"
+     discard_orig_path="false"
+     fuse_paths="false"
+     oposite_fuse="false"
+     split_items="true"
+     split_open="false"
+     link_styles="false" /><inkscape:path-effect
+     effect="join_type"
+     id="path-effect17"
+     is_visible="false"
+     lpeversion="1"
+     linecap_type="round"
+     line_width="15"
+     linejoin_type="round"
+     miter_limit="100"
+     attempt_force_join="true" /><inkscape:path-effect
+     effect="copy_rotate"
+     starting_point="1100,1264.519"
+     origin="1000,1264.519"
+     id="path-effect29"
+     is_visible="true"
+     lpeversion="1.2"
+     lpesatellites=""
+     method="normal"
+     num_copies="2"
+     starting_angle="0"
+     rotation_angle="180"
+     gap="-0.01"
+     copies_to_360="true"
+     mirror_copies="false"
+     split_items="false"
+     link_styles="false" /><inkscape:path-effect
+     effect="join_type"
+     id="path-effect27"
+     is_visible="false"
+     lpeversion="1"
+     linecap_type="round"
+     line_width="15"
+     linejoin_type="round"
+     miter_limit="100"
+     attempt_force_join="true" /><inkscape:path-effect
+     effect="measure_segments"
+     linked_items=""
+     id="path-effect19"
+     is_visible="true"
+     lpeversion="1"
+     unit="mm"
+     orientation="parallel"
+     coloropacity="#000000ff"
+     fontbutton="Sans 1"
+     precision="2"
+     fix_overlaps="0"
+     position="5"
+     text_top_bottom="0"
+     helpline_distance="0"
+     helpline_overlap="2"
+     line_width="0.25"
+     scale="1"
+     format="{measure}{unit}"
+     blacklist=""
+     active_projection="false"
+     whitelist="false"
+     showindex="false"
+     arrows_outside="false"
+     flip_side="false"
+     scale_sensitive="true"
+     local_locale="true"
+     rotate_anotation="true"
+     hide_back="true"
+     hide_arrows="false"
+     smallx100="false"
+     distance_projection="20"
+     angle_projection="0"
+     avoid_overlapping="true"
+     onbbox="false"
+     bboxonly="false"
+     centers="false"
+     maxmin="false"
+     helpdata="&lt;b&gt;&lt;big&gt;General&lt;/big&gt;&lt;/b&gt;&#10;Display and position dimension lines and labels&#10;&#10;&lt;b&gt;&lt;big&gt;Projection&lt;/big&gt;&lt;/b&gt;&#10;Show a line with measurements based on the selected items&#10;&#10;&lt;b&gt;&lt;big&gt;Options&lt;/big&gt;&lt;/b&gt;&#10;Options for color, precision, label formatting and display&#10;&#10;&lt;b&gt;&lt;big&gt;Tips&lt;/big&gt;&lt;/b&gt;&#10;&lt;b&gt;&lt;i&gt;Custom styling:&lt;/i&gt;&lt;/b&gt; To further customize the styles, use the XML editor to find out the class or ID, then use the Style dialog to apply a new style.&#10;&lt;b&gt;&lt;i&gt;Blacklists:&lt;/i&gt;&lt;/b&gt; allow to hide some segments or projection steps.&#10;&lt;b&gt;&lt;i&gt;Multiple Measure LPEs:&lt;/i&gt;&lt;/b&gt; In the same object, in conjunction with blacklists,this allows for labels and measurements with different orientations or additional projections.&#10;&lt;b&gt;&lt;i&gt;Set Defaults:&lt;/i&gt;&lt;/b&gt; For every LPE, default values can be set at the bottom." /><inkscape:path-effect
+     effect="mirror_symmetry"
+     start_point="285.65242,299.96426"
+     end_point="1975.4159,1983.0993"
+     center_point="1130.5342,1141.5318"
+     id="path-effect18"
+     is_visible="false"
+     lpeversion="1.2"
+     lpesatellites=""
+     mode="free"
+     discard_orig_path="false"
+     fuse_paths="false"
+     oposite_fuse="false"
+     split_items="false"
+     split_open="false"
+     link_styles="false" /><inkscape:path-effect
+     effect="fill_between_many"
+     method="bsplinespiro"
+     autoreverse="false"
+     close="false"
+     join="false"
+     linkedpaths="#path2,0,1"
+     id="path-effect28"
+     is_visible="true"
+     lpeversion="0" /></defs>
+<sodipodi:namedview
+   pagecolor="#a9a9a9"
+   bordercolor="#292929"
+   borderopacity="1"
+   inkscape:showpageshadow="2"
+   inkscape:pageopacity="0.0"
+   inkscape:pagecheckerboard="0"
+   inkscape:deskcolor="#232323"
+   id="namedview1"
+   inkscape:zoom="0.5"
+   inkscape:cx="576"
+   inkscape:cy="581"
+   inkscape:window-width="1920"
+   inkscape:window-height="991"
+   inkscape:window-x="-9"
+   inkscape:window-y="-9"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="g3" />
+<style
+   type="text/css"
+   id="style1">
+g.prefab path {
+  vector-effect:non-scaling-stroke;
+  -inkscape-stroke:hairline;
+  fill: none;
+  fill-opacity: 1;
+  stroke-opacity: 1;
+  stroke: #00349c;
+}
+</style>
+
+<path
+   style="fill:#ca0708;fill-opacity:1;fill-rule:evenodd;stroke-width:0.015625"
+   d=""
+   id="path164" /><path
+   style="fill:#ca0708;fill-opacity:1;fill-rule:evenodd;stroke-width:0.00390625"
+   d=""
+   id="path167" /><path
+   style="fill:#ca0708;fill-opacity:1;fill-rule:evenodd;stroke-width:0.00390625"
+   d=""
+   id="path174" /><path
+   style="fill:#ca0708;fill-opacity:1;fill-rule:evenodd;stroke-width:0.00390625"
+   d=""
+   id="path175" /><path
+   style="fill:#ca0708;fill-opacity:1;fill-rule:evenodd;stroke-width:0.00390625"
+   d=""
+   id="path183" /><path
+   style="fill:#ca0708;fill-opacity:1;fill-rule:evenodd;stroke-width:0.00390625"
+   d=""
+   id="path214" /><path
+   style="fill:#ca0708;fill-opacity:1;fill-rule:evenodd;stroke-width:0.00552427"
+   d=""
+   id="path221" /><path
+   style="fill:#ca0708;fill-opacity:1;fill-rule:evenodd;stroke-width:0.00552427"
+   d=""
+   id="path223" /><path
+   style="fill:#ca0708;fill-opacity:1;fill-rule:evenodd;stroke-width:0.00390625"
+   d=""
+   id="path231" /><path
+   style="fill:#ca0708;fill-opacity:1;fill-rule:evenodd;stroke-width:0.00390625"
+   d=""
+   id="path245" /><style
+   id="style19">
+.measure-arrow
+{
+}
+.measure-label
+{
+
+}
+.measure-line
+{
+}</style><g
+   transform="matrix(0.38399999,0,0,-0.38399999,12.934484,807.34106)"
+   fill="#000000"
+   stroke="none"
+   id="g3"
+   inkscape:label="Logo"><path
+     d="m 1639.9999,1920 80,-80 L 239.99999,360.00006 c -10,-10 110,-129.99999 120,-119.99999 L 1839.9999,1720 l 80,-80 80,360 z"
+     id="path1"
+     sodipodi:nodetypes="cccccccc"
+     style="fill:#0077ff;fill-opacity:1"
+     inkscape:label="Yellow Arrow" /><path
+     d="m 1719.9999,1400 c 440,-679.99995 -400,-1399.999923706055 -859.99993,-1219.99993 l 139.99999,139.99999 -119.99999,120 L 549.99998,110.00007 C 1459.9999,-347.49991 2378.1795,720.00005 1839.9999,1520 Z"
+     id="path3"
+     sodipodi:nodetypes="ccccccc"
+     style="fill:#44aa00"
+     inkscape:label="Green Arrow"
+     inkscape:original-d="m 1719.9999,1400 c 440,-679.99995 -400,-1399.999923706055 -859.99993,-1219.99993 l 139.99999,139.99999 -119.99999,120 L 549.99998,110.00007 C 1459.9999,-347.49991 2378.1795,720.00005 1839.9999,1520 Z"
+     inkscape:path-effect="#path-effect20" /><path
+     id="path20"
+     d="m 1719.9999,1400 c 440,-679.99995 -400,-1399.999923706055 -859.99993,-1219.99993 l 139.99999,139.99999 -119.99999,120 L 549.99998,110.00007 C 1459.9999,-347.49991 2378.1795,720.00005 1839.9999,1520 Z"
+     style="fill:#d40000"
+     transform="matrix(-5.0000001e-8,1,1,5.0000001e-8,0,0)"
+     sodipodi:nodetypes="ccccccc"
+     inkscape:label="Red Arrow" /><path
+     d="m 639.99997,1480 80,-80 -439.99998,-439.99996 119.99999,-120 L 839.99997,1280 l 80,-80 80,360 z"
+     id="path21"
+     sodipodi:nodetypes="cccccccc"
+     style="fill:#d40000"
+     inkscape:label="Red Arrow Head" /><path
+     d="m 799.99997,520.00002 80,-79.99996 -60,-60 120,-119.99999 60,59.99999 80.00003,-80 80,359.99996 z"
+     id="path22"
+     sodipodi:nodetypes="cccccccc"
+     style="fill:#44aa00"
+     inkscape:label="Green Arrow Head" /></g>
+     </svg>
