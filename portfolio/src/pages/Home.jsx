@@ -29,6 +29,12 @@ function Home() {
         return () => clearInterval(interval) // cleanup must be outside .then()
     }, [])
 
+    const openLink = (event, url) => {
+        event.preventDefault()
+        event.stopPropagation()
+        window.open(url, "_blank")
+    }
+
     return (
         <>
             <div className="custom:mx-auto xxs:mx-3.5 pointer-events-none absolute inset-0 z-1 max-w-6xl [background-image:url('/assets/framer-noise.png')] [bg-size:128px] bg-repeat opacity-6 md:mx-5 lg:mx-8"></div>
@@ -62,9 +68,9 @@ function Home() {
                     </div>
                 </div>
                 <div className='relative w-full h-8 flex justify-start items-center gap-8  pl-2! font-ms text-black font-medium bg-[#cac6cb]'>
-                    <div><span className='underline'>R</span>esume</div>
-                    <div><span className='underline'>G</span>itHub</div>
-                    <div><span className='underline'>L</span>inkedIn</div>
+                    <div onClick={(e) => openLink(e, "https://karankhandekar1729.github.io/resume/resume.pdf")} className='cursor-pointer hover:text-[#000080]'><span className='underline'>R</span>esume</div>
+                    <div onClick={(e) => openLink(e, "https://github.com/karankhandekar1729")} className='cursor-pointer hover:text-[#000080]'><span className='underline'>G</span>itHub</div>
+                    <div onClick={(e) => openLink(e, "https://linkedin.com/in/karankhandekar")} className='cursor-pointer hover:text-[#000080]'><span className='underline'>L</span>inkedIn</div>
                 </div>
                 <div >
 
